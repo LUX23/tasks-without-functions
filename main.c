@@ -3,6 +3,7 @@
 #include <string.h>
 #include <windows.h>
 #include <conio.h>
+
 char *stoupper(char *str) // функция, приводящая буквы в строке к верхнему регистру
 {
     char s;
